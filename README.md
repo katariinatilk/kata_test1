@@ -7,4 +7,7 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 - Python
 - Github
 
-## Second level heading
+## My projects
+1. Java online banking app
+2. python AI tool
+3. ja midagi veel
